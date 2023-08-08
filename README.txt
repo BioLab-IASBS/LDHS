@@ -2,10 +2,17 @@
  
 This study proposes a new approach in order to improve swarm intelligence based algorithms such as harmony search for finding disease-causing SNP interactions. 
 The idea is applied on MP-HS-DHSI algorithm, and therefore the available code for this research is used (and modified) in order to evaluate the result. 
+
+======================================================================
+
+The method can be tested on real data(available in folder ./DME_DATA/ of the project).
+
+
 ======================================================================
 
 The flowchart of the proposed method is represented in Figure 1 of the paper. 
 (Flowchart of steps taken in this research with a focus on initializing harmony memories)
+
 
   
 
